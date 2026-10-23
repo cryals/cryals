@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "login": "cryals",
+  "seed": "#0B284E",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "streak"
+  ],
+  "hero": {
+    "greeting": "Йоу, я",
+    "name": "AL-S",
+    "subtitle": "Я делаю что-то, иногда, периодически.",
+    "typing": true,
+    "avatarShape": "pill",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Russia, Vladimir"
+      },
+      {
+        "icon": "code",
+        "label": "JavaScript · C#"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Student"
+      },
+      {
+        "icon": "code",
+        "label": "Space Station 14 Dev"
+      },
+      {
+        "icon": "device_swoosh_star",
+        "label": "Pocket DevOps"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux?"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "ACatalog",
+      "ALTGnomeWiki"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/cryalsss"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/616677573761433630"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://stopco.ru",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
