@@ -1,0 +1,788 @@
+{
+ "key": "5b2622a7",
+ "stars": 7,
+ "contributions": 678,
+ "repos": 68,
+ "followers": 2,
+ "languages": [
+  [
+   "C#",
+   70576568
+  ],
+  [
+   "Fluent",
+   17038044
+  ],
+  [
+   "C",
+   9328981
+  ],
+  [
+   "Java",
+   1916455
+  ],
+  [
+   "Python",
+   637658
+  ],
+  [
+   "TypeScript",
+   518171
+  ],
+  [
+   "JavaScript",
+   173782
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 1,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 15,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 23,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 13
+ },
+ "pins": [
+  {
+   "name": "ALTGnomeWiki",
+   "url": "https://github.com/alt-gnome/ALTGnomeWiki",
+   "text": "библиотека знаний операционной системы ALT Regular Gnome",
+   "fork": false,
+   "stars": 37,
+   "language": "TypeScript",
+   "topics": [
+    "altlinux",
+    "gnome",
+    "linux",
+    "altregulargnome",
+    "altwiki",
+    "gnomewiki"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "ACatalog",
+   "url": "https://github.com/cryals/ACatalog",
+   "text": "A catalog of self-hosted applications.",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "docker",
+    "docker-compose",
+    "self-hosted"
+   ]
+  },
+  {
+   "name": "art-archive",
+   "url": "https://github.com/cryals/art-archive",
+   "text": "Потихоньку",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "git-net",
+   "url": "https://github.com/cryals/git-net",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "kohihausu",
+   "url": "https://github.com/cryals/kohihausu",
+   "text": "Angry kittens want coffee! コップコップコップ",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "lesla",
+   "url": "https://github.com/cryals/lesla",
+   "text": "NeTerminal",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "linux-base",
+   "url": "https://github.com/cryals/linux-base",
+   "text": "База знаний операционных систем GNU/Linux",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "space-station-14",
+   "url": "https://github.com/cryals/space-station-14",
+   "text": "A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.",
+   "fork": true,
+   "stars": 1,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "newera-station",
+   "url": "https://github.com/cryals/newera-station",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "ALTGnomeWiki",
+   "url": "https://github.com/cryals/ALTGnomeWiki",
+   "text": "библиотека знаний операционной системы ALT Regular Gnome",
+   "fork": true,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "expressive-profile",
+   "url": "https://github.com/cryals/expressive-profile",
+   "text": "Material 3 Expressive profile README generator for GitHub with daily auto-updates",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "cryals",
+   "url": "https://github.com/cryals/cryals",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "git-stats-parser",
+   "url": "https://github.com/cryals/git-stats-parser",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "erppomoyka",
+   "url": "https://github.com/cryals/erppomoyka",
+   "text": "Билд проекта Arcane в игре Space Station 14.",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "MCIcons",
+   "url": "https://github.com/cryals/MCIcons",
+   "text": "Static minecraft icons",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "4ritoka",
+   "url": "https://github.com/cryals/4ritoka",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "bot-creator-skill",
+   "url": "https://github.com/cryals/bot-creator-skill",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "ss14-website",
+   "url": "https://github.com/cryals/ss14-website",
+   "text": "The main website for the Space Station 14 RU community",
+   "fork": true,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "aseprite-builder",
+   "url": "https://github.com/cryals/aseprite-builder",
+   "text": "Build Aseprite using Github action(Window, MacOS, Ubuntu) in 10 minutes.",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "SS.Launcher",
+   "url": "https://github.com/cryals/SS.Launcher",
+   "text": "Space Station: Beyond - A fork of the Space Wizards' RT Launcher with more decentralization and QOL",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "XamlX",
+   "url": "https://github.com/cryals/XamlX",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "typeauthd-bot",
+   "url": "https://github.com/cryals/typeauthd-bot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "pally-bot",
+   "url": "https://github.com/cryals/pally-bot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "pally.bot",
+   "url": "https://github.com/cryals/pally.bot",
+   "text": "Pally bot 4 tg",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "allay-auth",
+   "url": "https://github.com/cryals/allay-auth",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "headpats",
+   "url": "https://github.com/cryals/headpats",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "coreprotect",
+   "url": "https://github.com/cryals/coreprotect",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "KozelSmpWebApi",
+   "url": "https://github.com/cryals/KozelSmpWebApi",
+   "text": "HTTP JSON API for Kozel SMP player statistics.",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "shine",
+   "url": "https://github.com/cryals/shine",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "cslibrary",
+   "url": "https://github.com/cryals/cslibrary",
+   "text": "A cross-platform console application for managing your personal library of books",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "fumadocs",
+   "url": "https://github.com/cryals/fumadocs",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "calamity-coop-perfect-setup",
+   "url": "https://github.com/cryals/calamity-coop-perfect-setup",
+   "text": "Идеально сбалансированная сборка Calamity Mod для игры с друзьями. Оптимизирована для мультиплеера: 0% вылетов, высокий FPS, полный русский перевод и удобный обмен лутом.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "qruster",
+   "url": "https://github.com/cryals/qruster",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "TTS",
+   "url": "https://github.com/cryals/TTS",
+   "text": "Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "tts-gui",
+   "url": "https://github.com/cryals/tts-gui",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "agpl",
+   "url": "https://github.com/cryals/agpl",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Monolith",
+   "url": "https://github.com/cryals/Monolith",
+   "text": "Мне похуй, я вульпа",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "space-station-14-star",
+   "url": "https://github.com/cryals/space-station-14-star",
+   "text": "A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "Hullrot",
+   "url": "https://github.com/cryals/Hullrot",
+   "text": "A Grim, Ship-Combat centric fork of Space Wizard's SS14",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "metro-14",
+   "url": "https://github.com/cryals/metro-14",
+   "text": "Сборка по вселенной метро 2033 в игре Space station 14.",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "ratgore",
+   "url": "https://github.com/cryals/ratgore",
+   "text": "The Hullrot fork with a Russian translation",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "paopao-ce",
+   "url": "https://github.com/cryals/paopao-ce",
+   "text": "🔥An artistic \"twitter like\" community built on gin+zinc+vue+ts 清新文艺微社区",
+   "fork": true,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "typeauthd",
+   "url": "https://github.com/cryals/typeauthd",
+   "text": "TS rewrite of my old ssj_auth for SS14. This version is more wide-scoped.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "docs",
+   "url": "https://github.com/cryals/docs",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "MDX",
+   "topics": []
+  },
+  {
+   "name": "mihua.stopco.ru",
+   "url": "https://github.com/cryals/mihua.stopco.ru",
+   "text": "$9",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "ss14-playtime-bot",
+   "url": "https://github.com/cryals/ss14-playtime-bot",
+   "text": "$9",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "fdbsqlite",
+   "url": "https://github.com/cryals/fdbsqlite",
+   "text": "кроссплатформенная консольная утилита для работы с базами данных SQLite. Поддерживает интерактивный текстовый интерфейс (TUI) и режим командной строки (CLI). Позволяет просматривать, редактировать, создавать таблицы, добавлять и удалять записи и колонки, выполнять резервное копирование и откат изменений.",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "open-space-14",
+   "url": "https://github.com/cryals/open-space-14",
+   "text": "📦📦📦📦📦📦📦📦📦",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "space-station",
+   "url": "https://github.com/cryals/space-station",
+   "text": "rabid kittens furry",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "docs-ru",
+   "url": "https://github.com/cryals/docs-ru",
+   "text": "Документация для Space Station 14 и RobustToolbox",
+   "fork": true,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "ss14-status-bot-tg",
+   "url": "https://github.com/cryals/ss14-status-bot-tg",
+   "text": "meow",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "ss14-status-bot",
+   "url": "https://github.com/cryals/ss14-status-bot",
+   "text": "/status",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "frontiermini",
+   "url": "https://github.com/cryals/frontiermini",
+   "text": "ыыыыыыыыыыыыыыыы",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "frontier-14",
+   "url": "https://github.com/cryals/frontier-14",
+   "text": "🇹🇫",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "mini-14",
+   "url": "https://github.com/cryals/mini-14",
+   "text": "🦨🦨🦨🦨🦨🦨",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "wiki",
+   "url": "https://github.com/cryals/wiki",
+   "text": "meow",
+   "fork": true,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "shadPS4",
+   "url": "https://github.com/cryals/shadPS4",
+   "text": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "userstyles",
+   "url": "https://github.com/cryals/userstyles",
+   "text": "🖌 Soothing pastel userstyles",
+   "fork": true,
+   "stars": 0,
+   "language": "Less",
+   "topics": []
+  },
+  {
+   "name": "mouse_mover",
+   "url": "https://github.com/cryals/mouse_mover",
+   "text": "Kasadoru",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "kohihausu-web",
+   "url": "https://github.com/cryals/kohihausu-web",
+   "text": "rabid kittens",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "awesome-selfhosted",
+   "url": "https://github.com/cryals/awesome-selfhosted",
+   "text": "A list of Free Software network services and web applications which can be hosted on your own servers",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "srv-cli",
+   "url": "https://github.com/cryals/srv-cli",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "mtplvcap",
+   "url": "https://github.com/cryals/mtplvcap",
+   "text": "Nikon to USB Webcam. Supports older models that Nikon WU does not. Windows/macOS/Linux. No HDMI capture dongle is needed. Ask me on Twitter @puhitaku",
+   "fork": true,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "ss-stats",
+   "url": "https://github.com/cryals/ss-stats",
+   "text": "yoo!",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "ximper-dots",
+   "url": "https://github.com/cryals/ximper-dots",
+   "text": "xm",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "RobustToolbox",
+   "url": "https://github.com/cryals/RobustToolbox",
+   "text": "Robust multiplayer game engine, used by Space Station 14",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "SS14.Launcher",
+   "url": "https://github.com/cryals/SS14.Launcher",
+   "text": "Launcher for Space Station 14.",
+   "fork": true,
+   "stars": 0,
+   "language": "Fluent",
+   "topics": []
+  },
+  {
+   "name": "ts3-status",
+   "url": "https://github.com/cryals/ts3-status",
+   "text": "ts3-status -- ts.stopco.ru",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "asset-dump",
+   "url": "https://github.com/cryals/asset-dump",
+   "text": "Storing various assets we're not directly using but still need to keep around.",
+   "fork": true,
+   "stars": 0,
+   "language": "PowerShell",
+   "topics": []
+  }
+ ]
+}
