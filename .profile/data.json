@@ -1,5 +1,5 @@
 {
- "key": "dc8fb794",
+ "key": "dcbb18b3",
  "stars": 7,
  "contributions": 1123,
  "repos": 69,
@@ -128,9 +128,13 @@
    {
     "c": 3,
     "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
     "today": true
    },
-   null,
    null,
    null
   ]
