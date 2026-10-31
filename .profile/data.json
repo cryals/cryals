@@ -1,5 +1,5 @@
 {
- "key": "fd129cbc",
+ "key": "fd3dfddb",
  "stars": 7,
  "contributions": 1153,
  "repos": 69,
@@ -138,9 +138,13 @@
    {
     "c": 13,
     "day": 30,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 31,
+    "today": true
+   }
   ]
  ],
  "streak": {
